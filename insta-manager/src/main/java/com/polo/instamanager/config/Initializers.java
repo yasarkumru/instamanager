@@ -50,6 +50,6 @@ public class Initializers {
     
     @Bean
     public Instagram4j instagram4j() {
-        return Instagram4j.builder().username("yasar.evliyaoglu").password("12788yasar").build();
+        return Instagram4j.builder().username("*").password("*").build();
     }
 }
