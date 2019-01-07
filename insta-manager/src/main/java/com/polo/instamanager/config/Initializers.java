@@ -1,4 +1,4 @@
-package config;
+package com.polo.instamanager.config;
 
 import org.brunocvcunha.instagram4j.Instagram4j;
 import org.springframework.boot.CommandLineRunner;
